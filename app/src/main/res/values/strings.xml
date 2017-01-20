@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AccionJobs</string>
+
+    <string name="app_title">Accionlab Jobs</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="user_name">Your name</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="prompt_password">EmpId (optional)</string>
+    <string name="action_sign_in">Submit</string>
+    <string name="action_sign_in_short">Submit</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="custom_message">Hi, I have got an opening with Accionlabs. Download the app from %1$s and use %2$s Id as employee id.</string>
+    <string name="mail_heading">Opening for android developer</string>
+    <string name="email_chooser_message">Send mail..</string>
+    <string name="message_chooser">Send a message via:</string>
+    <string name="mail_body">Hi Accion Team, PFA my updated resume for your references. My referred employee id is %1$s</string>
+    <string name="thank_you">Thank you for referring a candidate. We will get back to you soon.</string>
+</resources>
